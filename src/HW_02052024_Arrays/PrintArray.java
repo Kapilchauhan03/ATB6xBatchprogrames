@@ -1,4 +1,4 @@
-package HW_20052024_Arrays;
+package HW_02052024_Arrays;
 
 import java.util.Scanner;
 

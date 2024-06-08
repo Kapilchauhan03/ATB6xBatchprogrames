@@ -1,10 +1,10 @@
-package HW_20052024_Arrays;
+package HW_02052024_Arrays;
 
 import java.util.Scanner;
 
-public class double_array {
+public class Multiply_array {
 
-    // Create a Program to double an array and store it also. {1,2,3} -> {2,4,6}
+    // Multiply the array
 
     public static void main(String[] args) {
 
